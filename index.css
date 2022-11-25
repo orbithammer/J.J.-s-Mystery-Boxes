@@ -213,6 +213,10 @@ ul {
     .subtitle {
         margin-left: 2.5rem;
     }
+
+    .contents {
+        background-position-y: 55%;
+    }
     
     .contents-wide {
         display: flex;
@@ -251,5 +255,9 @@ ul {
         /* position: absolute; */
         width: 10rem;
         text-align: right;
+    }
+
+    .buy {
+        background-position-y: 45%;
     }
 }
